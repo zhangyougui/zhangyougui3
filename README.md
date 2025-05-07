@@ -1,4 +1,4 @@
-# 仇河东 324085503103 24机械1班 github：(https://github.com/Key407/CHD/tree/main)
+#  张友贵 机械243 324085503333  https://github.com/zhangyougui/zhangyougui3/tree/main
 ## 作业3.py
 ```python
 import numpy as np
